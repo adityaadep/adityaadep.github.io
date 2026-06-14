@@ -39,12 +39,10 @@ export function AboutSection() {
       <div className="w-12 h-1 bg-gradient-to-r from-primary to-cyan-400 mb-8 rounded-full" />
       
       <p className="text-muted-foreground leading-relaxed mb-10">
-        A passionate and skilled DevOps, SRE, and Cloud Engineer with a strong background in 
-        infrastructure provisioning, automation, and monitoring. Certified by Google Cloud for 
-        Associate Cloud Engineer and AWS for Cloud Practitioner. Experienced with tools such as 
-        Jenkins, Terraform, and Ansible to streamline development processes. Proficient in managing 
-        cloud infrastructure services on AWS and GCP, maintaining high availability in Kubernetes 
-        clusters. Successfully implemented monitoring tools like ELK, Grafana, and Datadog.
+      DevOps Engineer with 4+ years of hands-on experience supporting production applications on AWS and Linux- based
+environments. Strong focus on CI/CD automation, containerized deployments, monitoring, and infrastructure reliability.
+Experienced in application-side Kubernetes deployments, Docker-based workflows, and EC2-centric AWS architectures, with
+emphasis on cost optimization, security hardening, and operational stability.
       </p>
 
       <h3 className="text-xl font-semibold text-foreground mb-6">What I&apos;m Doing</h3>

@@ -2,28 +2,30 @@ import Link from "next/link"
 import { Calendar, ArrowRight } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
 
+
 const blogPosts = [
-  {
-    title: "Getting Started with Kubernetes on AWS EKS",
-    excerpt: "A comprehensive guide to deploying and managing Kubernetes clusters on Amazon EKS...",
-    date: "2024-01-15",
-    category: "DevOps",
-    slug: "kubernetes-aws-eks",
-  },
-  {
-    title: "Terraform Best Practices for Multi-Cloud",
-    excerpt: "Learn how to structure your Terraform code for managing infrastructure across multiple cloud providers...",
-    date: "2024-01-10",
-    category: "Cloud",
-    slug: "terraform-multi-cloud",
-  },
-  {
-    title: "Implementing GitOps with ArgoCD",
-    excerpt: "A step-by-step guide to implementing GitOps workflows using ArgoCD for Kubernetes deployments...",
-    date: "2024-01-05",
-    category: "DevOps",
-    slug: "gitops-argocd",
-  },
+  
+  // {
+  //   title: "Getting Started with Kubernetes on AWS EKS",
+  //   excerpt: "A comprehensive guide to deploying and managing Kubernetes clusters on Amazon EKS...",
+  //   date: "2024-01-15",
+  //   category: "DevOps",
+  //   slug: "kubernetes-aws-eks",
+  // },
+  // {
+  //   title: "Terraform Best Practices for Multi-Cloud",
+  //   excerpt: "Learn how to structure your Terraform code for managing infrastructure across multiple cloud providers...",
+  //   date: "2024-01-10",
+  //   category: "Cloud",
+  //   slug: "terraform-multi-cloud",
+  // },
+  // {
+  //   title: "Implementing GitOps with ArgoCD",
+  //   excerpt: "A step-by-step guide to implementing GitOps workflows using ArgoCD for Kubernetes deployments...",
+  //   date: "2024-01-05",
+  //   category: "DevOps",
+  //   slug: "gitops-argocd",
+  // },
 ]
 
 export function BlogSection() {

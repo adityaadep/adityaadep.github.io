@@ -48,7 +48,7 @@ export function ContactSection() {
                     href="mailto:hello@yourname.dev" 
                     className="text-foreground hover:text-primary transition-colors"
                   >
-                    hello@yourname.dev
+                    adepaditya1@gmail.com
                   </a>
                 </div>
               </div>
@@ -58,7 +58,7 @@ export function ContactSection() {
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Location</p>
-                  <p className="text-foreground">San Francisco, CA</p>
+                  <p className="text-foreground">Mumbai, INDIA</p>
                 </div>
               </div>
             </CardContent>

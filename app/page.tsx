@@ -70,7 +70,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="relative z-10 py-6 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Aditya Pratama. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Aditya Adep. All rights reserved.</p>
         </footer>
       </div>
     </div>

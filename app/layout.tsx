@@ -7,7 +7,7 @@ import './globals.css'
 const _inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Your Name | DevOps - SRE - Cloud Engineer',
+  title: 'Aditya Adep | DevOps - SRE - Cloud Engineer',
   description: 'A passionate and skilled DevOps, SRE, and Cloud Engineer with expertise in infrastructure provisioning, automation, and cloud services.',
   generator: 'v0.app',
   icons: {

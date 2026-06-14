@@ -5,46 +5,49 @@ import { Card, CardContent } from "@/components/ui/card"
 
 const experience = [
   {
-    title: "Senior DevOps Engineer",
-    company: "Gramedia",
-    location: "Jakarta, Indonesia",
-    period: "May 2024 - Present",
+    title: "Executive DevOps Engineer",
+    company: "Ventura Securitites Ltd",
+    location: "Thane, Mumbai, India",
+    period: "Nov 2024 - Present",
     description: [
-      "Enhanced system availability and performance by developing a Static Management System utilizing Cache and CDN.",
-      "Increased availability and performance while optimizing costs by 10% by implementing a Proxy Image Processing and Transformation system.",
-      "Modernized and optimized infrastructure through a three-layer architecture implementation.",
-      "Implemented Infrastructure as Code using Terraform, streamlining deployment processes.",
+      "Owned Ubuntu Linux production servers, managing high-availability deployments to maintain 99.9% system uptime and operational stability",
+      "Configured and maintained NGINX reverse proxies with TLS 1.3, securing traffic routing across multiple critical production services.",
+      "Implemented centralized logging and monitoring frameworks using Prometheus, Grafana, and Loki, improving visibility and reducing troubleshooting time by 50%",
+      "Designed and implemented robust CI/CD pipelines via Jenkins and GitHub Actions, achieving fully automated, zerotouch releases and eliminating manual intervention.",
+      "Automated complex infrastructure and daily operational tasks using Python and Shell scripting, saving 10+ manual engineering hours weekly.",
+      "Actively owned production incident management, troubleshooting infrastructure bottlenecks to restore services with minimal downtime.",
+      "Managed scalable EC2 workloads, IAM roles, ALB, ASG, and RDS while conducting cloud resource audits that slashed AWS spend by 50%.",
+      "Deployed containerized microservices using Kubernetes manifests (Deployments, Services, ConfigMaps) and managed environment-specific configs via Helm charts."
     ],
   },
   {
-    title: "Cloud Engineer",
-    company: "Cloud Solutions Inc.",
-    location: "Jakarta, Indonesia",
+    title: " Associate Software Engineer",
+    company: "BNP Paribas India Solutions Pvt. Ltd.",
+    location: "Mumbai, India",
     period: "2022 - 2024",
     description: [
-      "Designed and implemented cloud architecture solutions on AWS and GCP.",
-      "Migrated legacy systems to cloud-native Kubernetes infrastructure.",
-      "Developed centralized monitoring with Grafana and Prometheus.",
-    ],
-  },
-  {
-    title: "Systems Administrator",
-    company: "Tech Startup",
-    location: "Jakarta, Indonesia",
-    period: "2020 - 2022",
-    description: [
-      "Maintained and monitored server infrastructure with 99.9% uptime.",
-      "Implemented backup and disaster recovery solutions.",
+     "CI/CD & Process Automation: Engineered robust Jenkins pipelines from scratch using Maven, accelerating developer release velocity by 35% and reclaiming 6+ engineering hours weekly via automated Python/Bash infrastructure scripts.",
+ "DevSecOps & Security Enforcement: Spearheaded pipeline security by embedding SonarQube quality gates and Fortify static analysis scans, eliminating 98% of critical vulnerabilities before deployment across 40+ microservices.",
+ "Container & Artifact Optimization: Authored multi-stage Dockerfiles that slashed container image sizes by 60%, while managing over 5,000+ dependencies within Nexus/Artifactory at 99.9% availability." ,
+"Git Governance & Version Control: Orchestrated Git and Bitbucket strategies for 35+ engineers, establishing strict Gitflow branching policies that reduced code integration conflicts by 45%.",
+"Incident Management & RCA: Headed deep-dive production incident replications and system log analyses, authoring detailed Root Cause Analysis (RCA) documentation that reduced MTTR by 40%.",
+"Used Nexus /Artifactory for artifact management ,Performed security checks for vulnerabilities on source code using fortify scans.",
     ],
   },
 ]
 
 const education = [
   {
+    degree: "Masters in Computer Applications",
+    institution: "Bharati Vidyapeeth's Institute of Management and Information Technology ",
+    period: "2020 - 2022",
+    description: "GPA: 9.33 / 10.00",
+  },
+  {
     degree: "Bachelor of Science in Computer Science",
-    institution: "University Name",
-    period: "2016 - 2020",
-    description: "GPA: 3.8/4.0 - Focus on distributed systems and cloud computing.",
+    institution: "University of Mumbai",
+    period: "2017 - 2020",
+    description: "GPA: 9.08/10.00 .",
   },
 ]
 
