@@ -86,7 +86,7 @@ export function ProfileHeader() {
           </div>
           <div>
             <p className="text-xs text-muted-foreground uppercase tracking-wider mb-1">CV</p>
-            <Link href="/Aditya_Adep_Resume_Devops.pdf" className="text-sm text-foreground hover:text-primary transition-colors flex items-center gap-1">
+            <Link href="/Aditya_Adep_Resume_DevOpsEngineer.pdf" className="text-sm text-foreground hover:text-primary transition-colors flex items-center gap-1">
               Download
               <Download className="size-3" />
             </Link>
@@ -127,7 +127,7 @@ export function ProfileHeader() {
           </div>
           <div>
             <p className="text-xs text-muted-foreground uppercase tracking-wider mb-1">CV</p>
-            <Link href="/Aditya_Adep_Resume_Devops.pdf" className="text-xs text-foreground hover:text-primary transition-colors flex items-center gap-1">
+            <Link href="/Aditya_Adep_Resume_DevOpsEngineer.pdf" className="text-xs text-foreground hover:text-primary transition-colors flex items-center gap-1">
               Download
               <FileText className="size-3" />
             </Link>

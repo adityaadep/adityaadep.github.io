@@ -10,14 +10,14 @@ const experience = [
     location: "Thane, Mumbai, India",
     period: "Nov 2024 - Present",
     description: [
-      "Owned Ubuntu Linux production servers, managing high-availability deployments to maintain 99.9% system uptime and operational stability",
-      "Configured and maintained NGINX reverse proxies with TLS 1.3, securing traffic routing across multiple critical production services.",
-      "Implemented centralized logging and monitoring frameworks using Prometheus, Grafana, and Loki, improving visibility and reducing troubleshooting time by 50%",
-      "Designed and implemented robust CI/CD pipelines via Jenkins and GitHub Actions, achieving fully automated, zerotouch releases and eliminating manual intervention.",
-      "Automated complex infrastructure and daily operational tasks using Python and Shell scripting, saving 10+ manual engineering hours weekly.",
-      "Actively owned production incident management, troubleshooting infrastructure bottlenecks to restore services with minimal downtime.",
-      "Managed scalable EC2 workloads, IAM roles, ALB, ASG, and RDS while conducting cloud resource audits that slashed AWS spend by 50%.",
-      "Deployed containerized microservices using Kubernetes manifests (Deployments, Services, ConfigMaps) and managed environment-specific configs via Helm charts."
+      "High Availability & Linux Administration: Owned and administered production Ubuntu Linux servers, tuning system performance and hardening security to sustain 99.9% uptime for critical trading applications.",
+      "AWS Cloud & Networking: Architected and administered EC2-centric AWS infrastructure spanning ALB, Auto Scaling Groups, RDS, API Gateway, Lambda, SQS, and SNS; designed VPC networking with Transit Gateway and Site-to-Site VPN tunnels to unify on-prem and cloud connectivity, and configured NAT Gateways and routing for secure, reliable traffic flow.",
+      "Containerization & Orchestration: Deployed containerized microservices using Docker and Kubernetes manifests (Deployments, Services, ConfigMaps), managing environment-specific releases via Helm charts on Amazon EKS/ECS, cutting manual deployment steps by 80% and improving release consistency across 12+ services.",
+      "Infrastructure as Code: Provisioned AWS infrastructure using Terraform and CloudFormation, and standardized server configuration with Ansible, cutting environment provisioning time from 4 hours to 15 minutes and eliminating 90% of manual configuration errors.",
+      "CI/CD Pipeline Engineering: Built production-grade, end-to-end CI/CD pipelines using Jenkins and GitHub Actions covering build, pre-build and post-build security scanning, and SonarQube quality gates, taking release deployment from fully manual to zero-touch and cutting release turnaround time from 3 hours to 10 minutes.",
+      "Security & Reverse Proxy: Configured and maintained NGINX reverse proxies with TLS 1.3 encryption, securing traffic routing across multiple critical production services.",
+      "Monitoring & Observability: Stood up centralized logging, Alerting and monitoring using Prometheus, Grafana, Loki, and Node Exporter, improving system visibility and cutting troubleshooting time by 50%.",
+      "Cost Optimization & Performance: Conducted cloud resource audits and rolled out VPC endpoints, right-sizing, and scaling optimizations that lowered data transfer costs and slashed overall AWS spend by 50%."
     ],
   },
   {

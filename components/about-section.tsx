@@ -39,10 +39,13 @@ export function AboutSection() {
       <div className="w-12 h-1 bg-gradient-to-r from-primary to-cyan-400 mb-8 rounded-full" />
       
       <p className="text-muted-foreground leading-relaxed mb-10">
-      DevOps Engineer with 4+ years of hands-on experience supporting production applications on AWS and Linux- based
-environments. Strong focus on CI/CD automation, containerized deployments, monitoring, and infrastructure reliability.
-Experienced in application-side Kubernetes deployments, Docker-based workflows, and EC2-centric AWS architectures, with
-emphasis on cost optimization, security hardening, and operational stability.
+      Results-driven DevOps Engineer with 4+ years of experience owning production infrastructure end-to-end on AWS and Linux,
+progressing from pipeline automation to full infrastructure ownership across two enterprise environments. Design of CI/CD
+pipelines, Infrastructure as Code (Terraform, CloudFormation, Ansible), and Kubernetes workloads (EKS/ECS), while partnering with
+development, QA, and security teams to drive release strategy. Builds resilient AWS networking (VPC, Transit Gateway, Site-to-Site
+VPN) connecting on-prem and cloud environments, and champions DevSecOps, observability (Prometheus, Grafana, Loki), and
+cost/performance optimization — cutting cloud spend, accelerating release velocity, and sustaining 99.9%+ uptime for mission-
+critical financial and enterprise applications.
       </p>
 
       <h3 className="text-xl font-semibold text-foreground mb-6">What I&apos;m Doing</h3>
